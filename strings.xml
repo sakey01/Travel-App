@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="about">This app is designed to help you travel to locations within and outside London. It covers popular tourist attractions within London, some famous cities and more!</string>
+
+
+    <string-array name="destinations">
+        <item name = "Canary Wharf Pier">Canary Wharf Pier</item>
+        <item name = "London Eye Cruise">London Eye Cruise</item>
+        <item name = "Thames River Sightseeing">Thames River Sightseeing</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item name = "Liverpool">Liverpool</item>
+        <item name = "Birmingham">Birmingham</item>
+        <item name = "Manchester">Manchester</item>
+        <item name = "Leeds">Leeds</item>
+    </string-array>
+
+    <string-array name="outer_cities">
+        <item name = "Tokyo">Tokyo</item>
+        <item name = "Sydney">Sydney</item>
+        <item name = "New York">New York</item>
+        <item name = "Paris">Paris</item>
+    </string-array>
+
+
+    <string name="canarywharfpier">Canary Wharf Pier is a key transport hub located on the River Thames in London, serving as part of the Thames Clippers riverboat service. Opened in 1999, it connects Canary Wharf, a major financial district, with other parts of London via the river. The pier features modern facilities and is surrounded by iconic skyscrapers and vibrant waterside areas. It is well-integrated with nearby transport links, including the DLR and Jubilee Line. The pier also offers scenic views of the Thames, making it a practical and picturesque commuting and leisure option.</string>
+    <string name="londoneyecruise">The London Eye River Cruise is a popular sightseeing experience on the River Thames, departing from the pier near the London Eye. The 40-minute guided tour offers stunning views of iconic landmarks, including Big Ben, St. Paul’s Cathedral, and Tower Bridge. Live commentary provides interesting facts and historical insights about London’s famous attractions. The cruise is family-friendly and equipped with modern amenities, including open-air and covered seating. It’s a relaxing way to explore the city’s rich history and architecture from the water.</string>
+    <string name="thamesriversightseeing">Thames River Sightseeing offers guided boat tours along the River Thames, showcasing London’s most iconic landmarks. Passengers can enjoy panoramic views of attractions like the Tower of London, Westminster Abbey, and the Houses of Parliament. The cruises feature live or recorded commentary, providing historical and cultural insights about the city. With flexible hop-on-hop-off options, the service allows visitors to explore different locations along the river. It’s a relaxing and convenient way to experience London’s beauty and history from the water.</string>
+    <string name="liverpool">Liverpool is a vibrant city in northwest England, known for its rich maritime history and iconic waterfront. It is the birthplace of The Beatles and home to a thriving music and cultural scene. Key landmarks include the Royal Liver Building, Albert Dock, and Liverpool Cathedral. The city played a pivotal role in global trade during the Industrial Revolution and is recognized as a UNESCO World Heritage Site. Today, Liverpool is a lively hub of arts, sports, and innovation, blending history with modernity.</string>
+    <string name="birmingham">Birmingham is a major city in the West Midlands, known for its rich industrial history and diverse cultural scene. It played a key role in the Industrial Revolution, with landmarks like the Birmingham Museum and Art Gallery showcasing its heritage. The city is famous for its canals, vibrant shopping districts like Bullring, and modern developments like the Library of Birmingham. Birmingham is also a center for education, hosting institutions like the University of Birmingham. Today, it is a dynamic city blending history, culture, and innovation.</string>
+    <string name="manchester">Manchester is a dynamic city in northwest England, known for its rich industrial history and cultural heritage. It played a key role in the Industrial Revolution and is home to landmarks like the Museum of Science and Industry and the historic Castlefield area. The city boasts a vibrant music scene, renowned football clubs, and a thriving arts community. Manchester is also a hub for education, with prestigious universities and research institutions. Today, it combines its industrial past with modern innovation, making it one of the UK’s most influential cities.</string>
+    <string name="leeds">Leeds is a vibrant city in West Yorkshire, known for its rich industrial heritage and dynamic cultural scene. It boasts landmarks like the Leeds Town Hall, Leeds Art Gallery, and the Royal Armouries Museum. The city is a hub for shopping, with the Victorian-era Leeds Corn Exchange and the modern Trinity Leeds mall offering a range of stores. Leeds also has a strong sporting presence, with successful football and rugby teams. Today, it is a thriving, diverse city blending history, education, and modern developments.</string>
+    <string name="tokyo">Tokyo is the bustling capital of Japan, known for its mix of traditional culture and modern innovation. The city features iconic landmarks like the Tokyo Tower, Senso-ji Temple, and the futuristic Shibuya Crossing. Tokyo is a global hub for technology, fashion, and cuisine, offering everything from high-end shopping to authentic street food. With a rich history, it is home to numerous museums, gardens, and temples, alongside its vibrant, fast-paced urban life. Today, Tokyo is a leading metropolis, blending old-world charm with cutting-edge advancements.</string>
+    <string name="sydney">Sydney is a vibrant city in Australia, famous for its stunning harbor and iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge. It boasts beautiful beaches, including Bondi and Manly, and a thriving arts, culture, and food scene. The city combines a rich history, from its colonial past to its modern development, with natural beauty and outdoor activities. Sydney is a global financial and business hub, while also offering a relaxed lifestyle with scenic parks and coastal walks. Today, it is a dynamic and cosmopolitan city attracting visitors and residents from around the world.</string>
+    <string name="newyork">New York City is a global metropolis known for its iconic skyline, featuring landmarks like the Statue of Liberty, Times Square, and Central Park. It is a cultural hub, offering world-class museums, theaters, and diverse neighborhoods. NYC is a center for finance, fashion, media, and technology, with the financial district and Broadway at its heart. The city is known for its energy, fast pace, and cultural diversity, making it a melting pot of ideas and people. Today, New York remains one of the world’s most influential and exciting cities.</string>
+    <string name="paris">Paris is the capital of France, renowned for its art, history, and iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. The city is a global center for culture, fashion, and cuisine, offering world-class dining, shopping, and galleries. Paris is steeped in history, with charming neighborhoods like Montmartre and the Marais reflecting its rich heritage. It is also known for its romantic atmosphere, with scenic spots along the Seine River and beautiful gardens. Today, Paris remains a vibrant and influential city, attracting millions of visitors from around the world.</string>
+
+</resources>
